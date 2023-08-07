@@ -38,7 +38,7 @@ To run the blockchain simulation on your local machine, follow these steps:
 2. Run the following command to execute the blockchain simulation:
 
     ```bash
-python blockchain.py
+    python blockchain.py
 
 3. The simulation will mine blocks and display the results, including the mined blocks' hashes and the validity of the blockchain.
 
